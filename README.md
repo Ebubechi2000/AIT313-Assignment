@@ -3,7 +3,7 @@ APP NUMBER: APP/HND/24/00662
 COURSE CODE: AIT 313
 QUESTION 1:
 
-LOCATE 5 DISRUPTION OF AIHere are 5 potential disruptions of AI:
+LOCATE 5 DISRUPTION OF AI
 
 i. Job Displacement
 AI has the potential to automate many jobs, particularly those that involve repetitive tasks or can be easily optimized by machines. This could lead to significant job displacement, especially in industries such as manufacturing, transportation, and customer service.
